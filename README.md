@@ -18,5 +18,3 @@ Bu projede farklı haber kaynaklarında aynı içeriğin farklı başlıklarla y
 - `tfidf_lemmatized.pkl`, `tfidf_stemmed.pkl` – TF-IDF modelleri
 - `w2v_*.model` – 16 adet Word2Vec modeli
 
-## Projeyi Çalıştırmak İçin
-1. Ortamı kurun:
