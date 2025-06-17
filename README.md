@@ -18,3 +18,7 @@ Bu projede farklı haber kaynaklarında aynı içeriğin farklı başlıklarla y
 - `tfidf_lemmatized.pkl`, `tfidf_stemmed.pkl` – TF-IDF modelleri
 - `w2v_*.model` – 16 adet Word2Vec modeli
 
+## Hazırlamış olduğum stabil web sitesi
+- `project_website` – Dosyayı açın.
+- `start.bat` – Uzantısını çalıştırdığınızda site aktif olacaktır.
+- `readme.txt` – Bu txt dosyasında detaylar yazıyor.
