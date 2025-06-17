@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Haber Başlıkları Benzerlik Tespiti</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Haber Başlıkları Benzerlik Tespiti</h1>
+        
+        <button id="themeToggle" class="theme-toggle" title="Tema Değiştir">
+            <i class="fas fa-sun"></i>
+        </button>
+        
+        <div class="tabs">
+            <button class="tab-button active" onclick="openTab('search')">
+                <i class="fas fa-search"></i> Anahtar Kelime Arama
+            </button>
+
+            <button class="tab-button" onclick="openTab('all_news')">
+                <i class="fas fa-newspaper"></i> Tüm Haberler
+            </button>
+        </div>
+        
+        <div id="search" class="tab-content" style="display: block;">
+            <div class="form-section">
+                <h2><i class="fas fa-search"></i> Anahtar Kelimeye Göre Benzer Başlıklar Ara</h2>
+                <form method="POST">
+                    <input type="hidden" name="action" value="search">
+                    <label for="keyword">Anahtar Kelime:</label>
+                    <input type="text" id="keyword" name="keyword" required placeholder="Aramak istediğiniz kelimeyi girin...">
+                    
+                    <label for="threshold">Benzerlik Eşiği (%):</label>
+                    <input type="number" id="threshold" name="threshold" value="85" min="0" max="100">
+                    
+                    <button type="submit"><i class="fas fa-search"></i> Ara</button>
+                </form>
+            </div>
+            
+            <div class="results-section">
+                <h2><i class="fas fa-list"></i> Benzer Başlıklar</h2>
+                {% if search_performed and similar_titles %}
+                    <p>{{ similar_titles|length }} sonuç bulundu.</p>
+                    {% for title in similar_titles %}
+                        <div class="result">
+                            <h3>{{ title.title }}</h3>
+                            <p><strong><i class="fas fa-newspaper"></i> Kaynak:</strong> {{ title.source }}</p>
+                            <p><strong><i class="far fa-calendar-alt"></i> Yayın Tarihi:</strong> {{ title.published_at }}</p>
+                            <p><strong><i class="fas fa-percentage"></i> Benzerlik Oranı:</strong> {{ title.similarity }}%</p>
+                            <a href="{{ title.url }}" target="_blank" class="news-link">
+                                <i class="fas fa-external-link-alt"></i> Habere Git
+                            </a>
+                        </div>
+                    {% endfor %}
+                {% elif search_performed %}
+                    <p><i class="fas fa-exclamation-circle"></i> Bu anahtar kelime için benzer başlık bulunamadı.</p>
+                {% endif %}
+            </div>
+        </div>
+        
+        <div id="all_news" class="tab-content" style="display: none;">
+            <div class="results-section">
+                <h2><i class="fas fa-newspaper"></i> Tüm Haber Başlıkları</h2>
+                {% if all_headlines %}
+                    <p>{{ all_headlines|length }} haber başlığı bulundu.</p>
+                    {% for headline in all_headlines %}
+                        <div class="result">
+                            <h3>{{ headline.title }}</h3>
+                            <p><strong><i class="fas fa-newspaper"></i> Kaynak:</strong> {{ headline.source }}</p>
+                            <p><strong><i class="far fa-calendar-alt"></i> Yayın Tarihi:</strong> {{ headline.published_at }}</p>
+                            <a href="{{ headline.url }}" target="_blank" class="news-link">
+                                <i class="fas fa-external-link-alt"></i> Habere Git
+                            </a>
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <p><i class="fas fa-exclamation-circle"></i> Haber başlıkları bulunamadı. API'den bir yanıt alınamadı.</p>
+                {% endif %}
+            </div>
+        </div>
+    </div>
+    
+    <script>
+        // Sekme fonksiyonu
+        function openTab(tabName) {
+            var i, tabContent, tabButtons;
+            
+            // Tüm sekme içeriklerini gizle
+            tabContent = document.getElementsByClassName("tab-content");
+            for (i = 0; i < tabContent.length; i++) {
+                tabContent[i].style.display = "none";
+            }
+            
+            // Tüm sekme butonlarından aktif sınıfını kaldır
+            tabButtons = document.getElementsByClassName("tab-button");
+            for (i = 0; i < tabButtons.length; i++) {
+                tabButtons[i].className = tabButtons[i].className.replace(" active", "");
+            }
+            
+            // Seçilen sekmeyi göster ve butonunu aktif yap
+            document.getElementById(tabName).style.display = "block";
+            event.currentTarget.className += " active";
+        }
+        
+        // Tema değiştirme
+        const themeToggle = document.getElementById('themeToggle');
+        const body = document.body;
+        const icon = themeToggle.querySelector('i');
+        
+        // Kullanıcı tercihini yerel depolamaya kaydet
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'light') {
+            body.classList.add('light-theme');
+            icon.classList.replace('fa-sun', 'fa-moon');
+        }
+        
+        themeToggle.addEventListener('click', () => {
+            body.classList.toggle('light-theme');
+            
+            if (body.classList.contains('light-theme')) {
+                icon.classList.replace('fa-sun', 'fa-moon');
+                localStorage.setItem('theme', 'light');
+            } else {
+                icon.classList.replace('fa-moon', 'fa-sun');
+                localStorage.setItem('theme', 'dark');
+            }
+        });
+        
+        // Sayfa yüklendiğinde animasyon efektleri
+        document.addEventListener('DOMContentLoaded', () => {
+            const results = document.querySelectorAll('.result');
+            results.forEach((result, index) => {
+                result.style.animationDelay = `${index * 0.1}s`;
+                result.style.opacity = '0';
+                setTimeout(() => {
+                    result.style.opacity = '1';
+                    result.style.animation = 'fadeIn 0.5s ease forwards';
+                }, index * 100);
+            });
+        });
+    </script>
+</body>
+</html>
