@@ -1,0 +1,1346 @@
+{
+  "query_text": {
+    "original": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+    "lemmatized": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+    "stemmed": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+    "index": 716,
+    "source": "Haber7.com",
+    "category": "kültür"
+  },
+  "model_results": {
+    "tfidf_lemmatized": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 1.0000000000000002,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.43783127652123965,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horozu şenliği düzenlendi",
+        "similarity_score": 0.4288763103347214,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "Serdal Adalı rakiplerini örnek gösterdi! 'Biz de yapacağız'",
+        "content": "serdal adalı rakiplerini örnek gösterdi biz de yapacağız",
+        "similarity_score": 0.14430239370018247,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "ÖRAV Eğitim Şenliği öğretmenlerle buluşuyor",
+        "content": "örav eğitim şenliği öğretmenlerle buluşuyor",
+        "similarity_score": 0.13929471915700414,
+        "source": "Haberturk.com",
+        "category": "eğitim"
+      }
+    ],
+    "tfidf_stemmed": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 1.0000000000000002,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.43911820588246603,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horoz şenliğ düzenlend",
+        "similarity_score": 0.4288763103347214,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "ÖRAV Eğitim Şenliği öğretmenlerle buluşuyor",
+        "content": "örav eğitim şenliğ öğretmenlerle buluşuyor",
+        "similarity_score": 0.14043854065788816,
+        "source": "Haberturk.com",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Gençler projeleriyle bilim ve yaz şenliği Asfa Atak Fest'te buluştu",
+        "content": "genç projeleriyle bilim ve yaz şenliğ asfa atak fest te buluşt",
+        "similarity_score": 0.12575959654202373,
+        "source": "Anadolu Agency",
+        "category": "eğitim"
+      }
+    ],
+    "w2v_lemmatized_1": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 1.0000001192092896,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.9700061082839966,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "27 uçak, 105 helikopter ve 14 İHA ile sürekli izleniyor",
+        "content": "uçak helikopter ve i ha ile sürekli izleniyor",
+        "similarity_score": 0.9693505764007568,
+        "source": "Haber7.com",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "Hazine ve Maliye Bakanı Şimşek: Ekonomi programı test edildi ve çok net şekilde ortada bir başarı var",
+        "content": "hazine ve maliye bakanı şimşek ekonomi programı test edildi ve çok net şekilde ortada bir başarı var",
+        "similarity_score": 0.9656308889389038,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanistan arasındaki ortak eylem planı nın toplantısı ankara da düzenlendi",
+        "similarity_score": 0.9652212262153625,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      }
+    ],
+    "w2v_stemmed_1": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.9813926815986633,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9773493409156799,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9773493409156799,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      },
+      {
+        "original_title": "İngiltere’de bir ilk: MI6’nın başına bir kadın geçti! Türkiye ayrıntısı dikkat çekti",
+        "content": "i ngiltere de bir ilk mi nın başına bir kad geçt türkiye ayrıntı dikkat çekt",
+        "similarity_score": 0.9762428402900696,
+        "source": "Turkiyegazetesi.com.tr",
+        "category": "teknoloji"
+      }
+    ],
+    "w2v_lemmatized_2": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 1.0000001192092896,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.9889177083969116,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "27 uçak, 105 helikopter ve 14 İHA ile sürekli izleniyor",
+        "content": "uçak helikopter ve i ha ile sürekli izleniyor",
+        "similarity_score": 0.9886828064918518,
+        "source": "Haber7.com",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "TBMM Komisyonu, Düzce ve Sakarya'da zirai dondan etkilenen bahçeleri inceledi",
+        "content": "tbmm komisyonu düzce ve sakarya da zirai dondan etkilenen bahçeleri inceledi",
+        "similarity_score": 0.9875502586364746,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "2024 İstanbul Erkek Lisesi mezunlarının akademik yolculuğu: Yurt dışına göç ve Türkiye’de eğitim tercih eden öğrencilerin hikayeleri",
+        "content": "i stanbul erkek lisesi mezunlarının akademik yolculuğu yurt dışına göç ve türkiye de eğitim tercih eden öğrencilerin hikayeleri",
+        "similarity_score": 0.9875059127807617,
+        "source": "Patronlardunyasi.com",
+        "category": "eğitim"
+      }
+    ],
+    "w2v_stemmed_2": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 1.0,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.9940733909606934,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9930475354194641,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9930475354194641,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      },
+      {
+        "original_title": "İngiltere’de bir ilk: MI6’nın başına bir kadın geçti! Türkiye ayrıntısı dikkat çekti",
+        "content": "i ngiltere de bir ilk mi nın başına bir kad geçt türkiye ayrıntı dikkat çekt",
+        "similarity_score": 0.9923399090766907,
+        "source": "Turkiyegazetesi.com.tr",
+        "category": "teknoloji"
+      }
+    ],
+    "w2v_lemmatized_3": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 1.0,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.9724964499473572,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Ulaştırma ve Altyapı Bakanı Uraloğlu duyurdu, 1 Temmuz'da başlıyor: Boğaz geçiş ücretlerine yüzde 15 zam",
+        "content": "ulaştırma ve altyapı bakanı uraloğlu duyurdu temmuz da başlıyor boğaz geçiş ücretlerine yüzde zam",
+        "similarity_score": 0.9671066999435425,
+        "source": "Anlatilaninotesi.com.tr",
+        "category": "çevre"
+      },
+      {
+        "original_title": "27 uçak, 105 helikopter ve 14 İHA ile sürekli izleniyor",
+        "content": "uçak helikopter ve i ha ile sürekli izleniyor",
+        "similarity_score": 0.9659290909767151,
+        "source": "Haber7.com",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "Hazine ve Maliye Bakanı Şimşek: Ekonomi programı test edildi ve çok net şekilde ortada bir başarı var",
+        "content": "hazine ve maliye bakanı şimşek ekonomi programı test edildi ve çok net şekilde ortada bir başarı var",
+        "similarity_score": 0.9641566872596741,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      }
+    ],
+    "w2v_stemmed_3": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.978027880191803,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "2024 İstanbul Erkek Lisesi mezunlarının akademik yolculuğu: Yurt dışına göç ve Türkiye’de eğitim tercih eden öğrencilerin hikayeleri",
+        "content": "i stanbul erkek lise mezunları akademik yolculuğ yurt dışına göç ve türkiye de eğitim tercih eden öğrenciler hikayeler",
+        "similarity_score": 0.9710898399353027,
+        "source": "Patronlardunyasi.com",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "İngiltere’de bir ilk: MI6’nın başına bir kadın geçti! Türkiye ayrıntısı dikkat çekti",
+        "content": "i ngiltere de bir ilk mi nın başına bir kad geçt türkiye ayrıntı dikkat çekt",
+        "similarity_score": 0.9696202874183655,
+        "source": "Turkiyegazetesi.com.tr",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horoz şenliğ düzenlend",
+        "similarity_score": 0.9684544801712036,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      }
+    ],
+    "w2v_lemmatized_4": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.9896968603134155,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Ulaştırma ve Altyapı Bakanı Uraloğlu duyurdu, 1 Temmuz'da başlıyor: Boğaz geçiş ücretlerine yüzde 15 zam",
+        "content": "ulaştırma ve altyapı bakanı uraloğlu duyurdu temmuz da başlıyor boğaz geçiş ücretlerine yüzde zam",
+        "similarity_score": 0.9878084659576416,
+        "source": "Anlatilaninotesi.com.tr",
+        "category": "çevre"
+      },
+      {
+        "original_title": "27 uçak, 105 helikopter ve 14 İHA ile sürekli izleniyor",
+        "content": "uçak helikopter ve i ha ile sürekli izleniyor",
+        "similarity_score": 0.9873114824295044,
+        "source": "Haber7.com",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "Enerji ve maden alanlarına yönelik düzenlemeler içeren kanun teklifi TBMM'de",
+        "content": "enerji ve maden alanlarına yönelik düzenlemeler içeren kanun teklifi tbmm de",
+        "similarity_score": 0.9873073101043701,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      }
+    ],
+    "w2v_stemmed_4": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.9927853345870972,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horoz şenliğ düzenlend",
+        "similarity_score": 0.9908498525619507,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "2024 İstanbul Erkek Lisesi mezunlarının akademik yolculuğu: Yurt dışına göç ve Türkiye’de eğitim tercih eden öğrencilerin hikayeleri",
+        "content": "i stanbul erkek lise mezunları akademik yolculuğ yurt dışına göç ve türkiye de eğitim tercih eden öğrenciler hikayeler",
+        "similarity_score": 0.990757167339325,
+        "source": "Patronlardunyasi.com",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Enerji ve maden alanlarına yönelik düzenlemeler içeren kanun teklifi TBMM'de",
+        "content": "enerj ve maden alanlarına yönelik düzenleme içeren kan teklif tbmm de",
+        "similarity_score": 0.9898837804794312,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      }
+    ],
+    "w2v_lemmatized_5": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 1.0,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.9996212720870972,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "6 bin çocuk LGS öncesi eğitim yılına renkli bir veda etti",
+        "content": "bin çocuk lgs öncesi eğitim yılına renkli bir veda etti",
+        "similarity_score": 0.9995969533920288,
+        "source": "Haber7.com",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanistan arasındaki ortak eylem planı nın toplantısı ankara da düzenlendi",
+        "similarity_score": 0.9995834231376648,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanistan arasındaki ortak eylem planı nın toplantısı ankara da düzenlendi",
+        "similarity_score": 0.9995834231376648,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      }
+    ],
+    "w2v_stemmed_5": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.9997368454933167,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9996839165687561,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9996839165687561,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      },
+      {
+        "original_title": "6 bin çocuk LGS öncesi eğitim yılına renkli bir veda etti",
+        "content": "bin çocuk lgs önce eğitim yılına renkl bir veda ett",
+        "similarity_score": 0.9996538758277893,
+        "source": "Haber7.com",
+        "category": "eğitim"
+      }
+    ],
+    "w2v_lemmatized_6": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Tunus'ta Türkiye'nin katılımıyla Zeytin ve Zeytinyağı Teknolojileri Fuarı düzenlendi",
+        "content": "tunus ta türkiye nin katılımıyla zeytin ve zeytinyağı teknolojileri fuarı düzenlendi",
+        "similarity_score": 0.999654233455658,
+        "source": "Anadolu Agency",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horozu şenliği düzenlendi",
+        "similarity_score": 0.9996529221534729,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanistan arasındaki ortak eylem planı nın toplantısı ankara da düzenlendi",
+        "similarity_score": 0.9996352195739746,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanistan arasındaki ortak eylem planı nın toplantısı ankara da düzenlendi",
+        "similarity_score": 0.9996352195739746,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      }
+    ],
+    "w2v_stemmed_6": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horoz şenliğ düzenlend",
+        "similarity_score": 0.999696671962738,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.999690055847168,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9996463060379028,
+        "source": "Anadolu Agency",
+        "category": "ekonomi"
+      },
+      {
+        "original_title": "Türkiye ve Yunanistan arasındaki Ortak Eylem Planı'nın 8. Toplantısı Ankara'da düzenlendi",
+        "content": "türkiye ve yunanis arasındak ortak eylem plan nın toplantı ankara da düzenlend",
+        "similarity_score": 0.9996463060379028,
+        "source": "Anadolu Agency",
+        "category": "çevre"
+      }
+    ],
+    "w2v_lemmatized_7": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.9998530149459839,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Ulaştırma ve Altyapı Bakanı Uraloğlu duyurdu, 1 Temmuz'da başlıyor: Boğaz geçiş ücretlerine yüzde 15 zam",
+        "content": "ulaştırma ve altyapı bakanı uraloğlu duyurdu temmuz da başlıyor boğaz geçiş ücretlerine yüzde zam",
+        "similarity_score": 0.9997645020484924,
+        "source": "Anlatilaninotesi.com.tr",
+        "category": "çevre"
+      },
+      {
+        "original_title": "Tunus'ta Türkiye'nin katılımıyla Zeytin ve Zeytinyağı Teknolojileri Fuarı düzenlendi",
+        "content": "tunus ta türkiye nin katılımıyla zeytin ve zeytinyağı teknolojileri fuarı düzenlendi",
+        "similarity_score": 0.9997631907463074,
+        "source": "Anadolu Agency",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horozu şenliği düzenlendi",
+        "similarity_score": 0.9997599720954895,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      }
+    ],
+    "w2v_stemmed_7": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.9998318552970886,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horoz şenliğ düzenlend",
+        "similarity_score": 0.9998066425323486,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "Tunus'ta Türkiye'nin katılımıyla Zeytin ve Zeytinyağı Teknolojileri Fuarı düzenlendi",
+        "content": "tunus ta türkiye nin katılımıyla zeyt ve zeytinyağ teknolojiler fuar düzenlend",
+        "similarity_score": 0.9997697472572327,
+        "source": "Anadolu Agency",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "2024 İstanbul Erkek Lisesi mezunlarının akademik yolculuğu: Yurt dışına göç ve Türkiye’de eğitim tercih eden öğrencilerin hikayeleri",
+        "content": "i stanbul erkek lise mezunları akademik yolculuğ yurt dışına göç ve türkiye de eğitim tercih eden öğrenciler hikayeler",
+        "similarity_score": 0.99976646900177,
+        "source": "Patronlardunyasi.com",
+        "category": "eğitim"
+      }
+    ],
+    "w2v_lemmatized_8": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunları şenliği düzenlendi",
+        "similarity_score": 0.9999998807907104,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehri i stanbul projesi kapsamında ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "similarity_score": 0.9998906850814819,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horozu şenliği düzenlendi",
+        "similarity_score": 0.9998248219490051,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "Tunus'ta Türkiye'nin katılımıyla Zeytin ve Zeytinyağı Teknolojileri Fuarı düzenlendi",
+        "content": "tunus ta türkiye nin katılımıyla zeytin ve zeytinyağı teknolojileri fuarı düzenlendi",
+        "similarity_score": 0.9998111128807068,
+        "source": "Anadolu Agency",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "6 bin çocuk LGS öncesi eğitim yılına renkli bir veda etti",
+        "content": "bin çocuk lgs öncesi eğitim yılına renkli bir veda etti",
+        "similarity_score": 0.9998072981834412,
+        "source": "Haber7.com",
+        "category": "eğitim"
+      }
+    ],
+    "w2v_stemmed_8": [
+      {
+        "original_title": "Ataşehir'de \"Çedes ve Geleneksel Çocuk Oyunları Şenliği\" düzenlendi",
+        "content": "ataşehir de çedes ve geleneksel çocuk oyunlar şenliğ düzenlend",
+        "similarity_score": 0.9999999403953552,
+        "source": "Haber7.com",
+        "category": "spor"
+      },
+      {
+        "original_title": "Rize'de \"20. Dağ Horozu Şenliği\" düzenlendi",
+        "content": "rize de dağ horoz şenliğ düzenlend",
+        "similarity_score": 0.999843955039978,
+        "source": "Anadolu Agency",
+        "category": "kültür"
+      },
+      {
+        "original_title": "Spor şehri İstanbul Projesi kapsamında 39 ilçede eş zamanlı geleneksel çocuk oyunları festivali düzenlendi",
+        "content": "spor şehr i stanbul proje kapsamın ilçe eş zamanl geleneksel çocuk oyunlar festival düzenlend",
+        "similarity_score": 0.9998379349708557,
+        "source": "Sabah.com.tr",
+        "category": "eğitim"
+      },
+      {
+        "original_title": "Tunus'ta Türkiye'nin katılımıyla Zeytin ve Zeytinyağı Teknolojileri Fuarı düzenlendi",
+        "content": "tunus ta türkiye nin katılımıyla zeyt ve zeytinyağ teknolojiler fuar düzenlend",
+        "similarity_score": 0.9997918605804443,
+        "source": "Anadolu Agency",
+        "category": "teknoloji"
+      },
+      {
+        "original_title": "Yeşilyurt'ta TÜBİTAK 4006-C Bilim Fuarı Festivali düzenlendi",
+        "content": "yeşilyurt ta tüb tak c bilim fuar festival düzenlend",
+        "similarity_score": 0.9997891783714294,
+        "source": "Haber7.com",
+        "category": "eğitim"
+      }
+    ]
+  },
+  "semantic_evaluation": {
+    "tfidf_lemmatized": {
+      "scores": [
+        5,
+        3,
+        3,
+        1,
+        1
+      ],
+      "average": 2.6
+    },
+    "tfidf_stemmed": {
+      "scores": [
+        5,
+        3,
+        3,
+        1,
+        1
+      ],
+      "average": 2.6
+    },
+    "w2v_lemmatized_1": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_1": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_lemmatized_2": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_2": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_lemmatized_3": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_3": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_lemmatized_4": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_4": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_lemmatized_5": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_5": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_lemmatized_6": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_6": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_lemmatized_7": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_7": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_lemmatized_8": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    },
+    "w2v_stemmed_8": {
+      "scores": [
+        5,
+        5,
+        5,
+        5,
+        5
+      ],
+      "average": 5.0
+    }
+  },
+  "jaccard_matrix": {
+    "tfidf_lemmatized": {
+      "tfidf_lemmatized": 1.0,
+      "tfidf_stemmed": 0.6666666666666666,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.25,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.25,
+      "w2v_stemmed_3": 0.42857142857142855,
+      "w2v_lemmatized_4": 0.25,
+      "w2v_stemmed_4": 0.42857142857142855,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.2857142857142857,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.42857142857142855,
+      "w2v_stemmed_7": 0.42857142857142855,
+      "w2v_lemmatized_8": 0.42857142857142855,
+      "w2v_stemmed_8": 0.42857142857142855
+    },
+    "tfidf_stemmed": {
+      "tfidf_lemmatized": 0.6666666666666666,
+      "tfidf_stemmed": 1.0,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.25,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.25,
+      "w2v_stemmed_3": 0.42857142857142855,
+      "w2v_lemmatized_4": 0.25,
+      "w2v_stemmed_4": 0.42857142857142855,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.2857142857142857,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.42857142857142855,
+      "w2v_stemmed_7": 0.42857142857142855,
+      "w2v_lemmatized_8": 0.42857142857142855,
+      "w2v_stemmed_8": 0.42857142857142855
+    },
+    "w2v_lemmatized_1": {
+      "tfidf_lemmatized": 0.25,
+      "tfidf_stemmed": 0.25,
+      "w2v_lemmatized_1": 1.0,
+      "w2v_stemmed_1": 0.5,
+      "w2v_lemmatized_2": 0.42857142857142855,
+      "w2v_stemmed_2": 0.5,
+      "w2v_lemmatized_3": 0.6666666666666666,
+      "w2v_stemmed_3": 0.25,
+      "w2v_lemmatized_4": 0.42857142857142855,
+      "w2v_stemmed_4": 0.25,
+      "w2v_lemmatized_5": 0.5,
+      "w2v_stemmed_5": 0.5,
+      "w2v_lemmatized_6": 0.2857142857142857,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.25,
+      "w2v_stemmed_7": 0.25,
+      "w2v_lemmatized_8": 0.25,
+      "w2v_stemmed_8": 0.25
+    },
+    "w2v_stemmed_1": {
+      "tfidf_lemmatized": 0.2857142857142857,
+      "tfidf_stemmed": 0.2857142857142857,
+      "w2v_lemmatized_1": 0.5,
+      "w2v_stemmed_1": 1.0,
+      "w2v_lemmatized_2": 0.2857142857142857,
+      "w2v_stemmed_2": 1.0,
+      "w2v_lemmatized_3": 0.2857142857142857,
+      "w2v_stemmed_3": 0.5,
+      "w2v_lemmatized_4": 0.2857142857142857,
+      "w2v_stemmed_4": 0.2857142857142857,
+      "w2v_lemmatized_5": 0.6,
+      "w2v_stemmed_5": 0.6,
+      "w2v_lemmatized_6": 0.3333333333333333,
+      "w2v_stemmed_6": 0.6,
+      "w2v_lemmatized_7": 0.2857142857142857,
+      "w2v_stemmed_7": 0.2857142857142857,
+      "w2v_lemmatized_8": 0.2857142857142857,
+      "w2v_stemmed_8": 0.2857142857142857
+    },
+    "w2v_lemmatized_2": {
+      "tfidf_lemmatized": 0.25,
+      "tfidf_stemmed": 0.25,
+      "w2v_lemmatized_1": 0.42857142857142855,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 1.0,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.42857142857142855,
+      "w2v_stemmed_3": 0.42857142857142855,
+      "w2v_lemmatized_4": 0.42857142857142855,
+      "w2v_stemmed_4": 0.42857142857142855,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.125,
+      "w2v_stemmed_6": 0.2857142857142857,
+      "w2v_lemmatized_7": 0.25,
+      "w2v_stemmed_7": 0.42857142857142855,
+      "w2v_lemmatized_8": 0.25,
+      "w2v_stemmed_8": 0.25
+    },
+    "w2v_stemmed_2": {
+      "tfidf_lemmatized": 0.2857142857142857,
+      "tfidf_stemmed": 0.2857142857142857,
+      "w2v_lemmatized_1": 0.5,
+      "w2v_stemmed_1": 1.0,
+      "w2v_lemmatized_2": 0.2857142857142857,
+      "w2v_stemmed_2": 1.0,
+      "w2v_lemmatized_3": 0.2857142857142857,
+      "w2v_stemmed_3": 0.5,
+      "w2v_lemmatized_4": 0.2857142857142857,
+      "w2v_stemmed_4": 0.2857142857142857,
+      "w2v_lemmatized_5": 0.6,
+      "w2v_stemmed_5": 0.6,
+      "w2v_lemmatized_6": 0.3333333333333333,
+      "w2v_stemmed_6": 0.6,
+      "w2v_lemmatized_7": 0.2857142857142857,
+      "w2v_stemmed_7": 0.2857142857142857,
+      "w2v_lemmatized_8": 0.2857142857142857,
+      "w2v_stemmed_8": 0.2857142857142857
+    },
+    "w2v_lemmatized_3": {
+      "tfidf_lemmatized": 0.25,
+      "tfidf_stemmed": 0.25,
+      "w2v_lemmatized_1": 0.6666666666666666,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.42857142857142855,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 1.0,
+      "w2v_stemmed_3": 0.25,
+      "w2v_lemmatized_4": 0.6666666666666666,
+      "w2v_stemmed_4": 0.25,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.125,
+      "w2v_stemmed_6": 0.2857142857142857,
+      "w2v_lemmatized_7": 0.42857142857142855,
+      "w2v_stemmed_7": 0.25,
+      "w2v_lemmatized_8": 0.25,
+      "w2v_stemmed_8": 0.25
+    },
+    "w2v_stemmed_3": {
+      "tfidf_lemmatized": 0.42857142857142855,
+      "tfidf_stemmed": 0.42857142857142855,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.5,
+      "w2v_lemmatized_2": 0.42857142857142855,
+      "w2v_stemmed_2": 0.5,
+      "w2v_lemmatized_3": 0.25,
+      "w2v_stemmed_3": 1.0,
+      "w2v_lemmatized_4": 0.25,
+      "w2v_stemmed_4": 0.6666666666666666,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.2857142857142857,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.42857142857142855,
+      "w2v_stemmed_7": 0.6666666666666666,
+      "w2v_lemmatized_8": 0.42857142857142855,
+      "w2v_stemmed_8": 0.42857142857142855
+    },
+    "w2v_lemmatized_4": {
+      "tfidf_lemmatized": 0.25,
+      "tfidf_stemmed": 0.25,
+      "w2v_lemmatized_1": 0.42857142857142855,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.42857142857142855,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.6666666666666666,
+      "w2v_stemmed_3": 0.25,
+      "w2v_lemmatized_4": 1.0,
+      "w2v_stemmed_4": 0.42857142857142855,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.125,
+      "w2v_stemmed_6": 0.2857142857142857,
+      "w2v_lemmatized_7": 0.42857142857142855,
+      "w2v_stemmed_7": 0.25,
+      "w2v_lemmatized_8": 0.25,
+      "w2v_stemmed_8": 0.25
+    },
+    "w2v_stemmed_4": {
+      "tfidf_lemmatized": 0.42857142857142855,
+      "tfidf_stemmed": 0.42857142857142855,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.42857142857142855,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.25,
+      "w2v_stemmed_3": 0.6666666666666666,
+      "w2v_lemmatized_4": 0.42857142857142855,
+      "w2v_stemmed_4": 1.0,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.2857142857142857,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.42857142857142855,
+      "w2v_stemmed_7": 0.6666666666666666,
+      "w2v_lemmatized_8": 0.42857142857142855,
+      "w2v_stemmed_8": 0.42857142857142855
+    },
+    "w2v_lemmatized_5": {
+      "tfidf_lemmatized": 0.2857142857142857,
+      "tfidf_stemmed": 0.2857142857142857,
+      "w2v_lemmatized_1": 0.5,
+      "w2v_stemmed_1": 0.6,
+      "w2v_lemmatized_2": 0.2857142857142857,
+      "w2v_stemmed_2": 0.6,
+      "w2v_lemmatized_3": 0.2857142857142857,
+      "w2v_stemmed_3": 0.2857142857142857,
+      "w2v_lemmatized_4": 0.2857142857142857,
+      "w2v_stemmed_4": 0.2857142857142857,
+      "w2v_lemmatized_5": 1.0,
+      "w2v_stemmed_5": 1.0,
+      "w2v_lemmatized_6": 0.3333333333333333,
+      "w2v_stemmed_6": 0.6,
+      "w2v_lemmatized_7": 0.2857142857142857,
+      "w2v_stemmed_7": 0.2857142857142857,
+      "w2v_lemmatized_8": 0.5,
+      "w2v_stemmed_8": 0.2857142857142857
+    },
+    "w2v_stemmed_5": {
+      "tfidf_lemmatized": 0.2857142857142857,
+      "tfidf_stemmed": 0.2857142857142857,
+      "w2v_lemmatized_1": 0.5,
+      "w2v_stemmed_1": 0.6,
+      "w2v_lemmatized_2": 0.2857142857142857,
+      "w2v_stemmed_2": 0.6,
+      "w2v_lemmatized_3": 0.2857142857142857,
+      "w2v_stemmed_3": 0.2857142857142857,
+      "w2v_lemmatized_4": 0.2857142857142857,
+      "w2v_stemmed_4": 0.2857142857142857,
+      "w2v_lemmatized_5": 1.0,
+      "w2v_stemmed_5": 1.0,
+      "w2v_lemmatized_6": 0.3333333333333333,
+      "w2v_stemmed_6": 0.6,
+      "w2v_lemmatized_7": 0.2857142857142857,
+      "w2v_stemmed_7": 0.2857142857142857,
+      "w2v_lemmatized_8": 0.5,
+      "w2v_stemmed_8": 0.2857142857142857
+    },
+    "w2v_lemmatized_6": {
+      "tfidf_lemmatized": 0.2857142857142857,
+      "tfidf_stemmed": 0.2857142857142857,
+      "w2v_lemmatized_1": 0.2857142857142857,
+      "w2v_stemmed_1": 0.3333333333333333,
+      "w2v_lemmatized_2": 0.125,
+      "w2v_stemmed_2": 0.3333333333333333,
+      "w2v_lemmatized_3": 0.125,
+      "w2v_stemmed_3": 0.2857142857142857,
+      "w2v_lemmatized_4": 0.125,
+      "w2v_stemmed_4": 0.2857142857142857,
+      "w2v_lemmatized_5": 0.3333333333333333,
+      "w2v_stemmed_5": 0.3333333333333333,
+      "w2v_lemmatized_6": 1.0,
+      "w2v_stemmed_6": 0.6,
+      "w2v_lemmatized_7": 0.5,
+      "w2v_stemmed_7": 0.5,
+      "w2v_lemmatized_8": 0.5,
+      "w2v_stemmed_8": 0.5
+    },
+    "w2v_stemmed_6": {
+      "tfidf_lemmatized": 0.5,
+      "tfidf_stemmed": 0.5,
+      "w2v_lemmatized_1": 0.5,
+      "w2v_stemmed_1": 0.6,
+      "w2v_lemmatized_2": 0.2857142857142857,
+      "w2v_stemmed_2": 0.6,
+      "w2v_lemmatized_3": 0.2857142857142857,
+      "w2v_stemmed_3": 0.5,
+      "w2v_lemmatized_4": 0.2857142857142857,
+      "w2v_stemmed_4": 0.5,
+      "w2v_lemmatized_5": 0.6,
+      "w2v_stemmed_5": 0.6,
+      "w2v_lemmatized_6": 0.6,
+      "w2v_stemmed_6": 1.0,
+      "w2v_lemmatized_7": 0.5,
+      "w2v_stemmed_7": 0.5,
+      "w2v_lemmatized_8": 0.5,
+      "w2v_stemmed_8": 0.5
+    },
+    "w2v_lemmatized_7": {
+      "tfidf_lemmatized": 0.42857142857142855,
+      "tfidf_stemmed": 0.42857142857142855,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.25,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.42857142857142855,
+      "w2v_stemmed_3": 0.42857142857142855,
+      "w2v_lemmatized_4": 0.42857142857142855,
+      "w2v_stemmed_4": 0.42857142857142855,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.5,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 1.0,
+      "w2v_stemmed_7": 0.6666666666666666,
+      "w2v_lemmatized_8": 0.6666666666666666,
+      "w2v_stemmed_8": 0.6666666666666666
+    },
+    "w2v_stemmed_7": {
+      "tfidf_lemmatized": 0.42857142857142855,
+      "tfidf_stemmed": 0.42857142857142855,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.42857142857142855,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.25,
+      "w2v_stemmed_3": 0.6666666666666666,
+      "w2v_lemmatized_4": 0.25,
+      "w2v_stemmed_4": 0.6666666666666666,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.5,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.6666666666666666,
+      "w2v_stemmed_7": 1.0,
+      "w2v_lemmatized_8": 0.6666666666666666,
+      "w2v_stemmed_8": 0.6666666666666666
+    },
+    "w2v_lemmatized_8": {
+      "tfidf_lemmatized": 0.42857142857142855,
+      "tfidf_stemmed": 0.42857142857142855,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.25,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.25,
+      "w2v_stemmed_3": 0.42857142857142855,
+      "w2v_lemmatized_4": 0.25,
+      "w2v_stemmed_4": 0.42857142857142855,
+      "w2v_lemmatized_5": 0.5,
+      "w2v_stemmed_5": 0.5,
+      "w2v_lemmatized_6": 0.5,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.6666666666666666,
+      "w2v_stemmed_7": 0.6666666666666666,
+      "w2v_lemmatized_8": 1.0,
+      "w2v_stemmed_8": 0.6666666666666666
+    },
+    "w2v_stemmed_8": {
+      "tfidf_lemmatized": 0.42857142857142855,
+      "tfidf_stemmed": 0.42857142857142855,
+      "w2v_lemmatized_1": 0.25,
+      "w2v_stemmed_1": 0.2857142857142857,
+      "w2v_lemmatized_2": 0.25,
+      "w2v_stemmed_2": 0.2857142857142857,
+      "w2v_lemmatized_3": 0.25,
+      "w2v_stemmed_3": 0.42857142857142855,
+      "w2v_lemmatized_4": 0.25,
+      "w2v_stemmed_4": 0.42857142857142855,
+      "w2v_lemmatized_5": 0.2857142857142857,
+      "w2v_stemmed_5": 0.2857142857142857,
+      "w2v_lemmatized_6": 0.5,
+      "w2v_stemmed_6": 0.5,
+      "w2v_lemmatized_7": 0.6666666666666666,
+      "w2v_stemmed_7": 0.6666666666666666,
+      "w2v_lemmatized_8": 0.6666666666666666,
+      "w2v_stemmed_8": 1.0
+    }
+  },
+  "model_info": {
+    "tfidf_lemmatized": {
+      "type": "TF-IDF",
+      "preprocessing": "Lemmatized",
+      "features": "Unigram + Bigram"
+    },
+    "tfidf_stemmed": {
+      "type": "TF-IDF",
+      "preprocessing": "Stemmed",
+      "features": "Unigram + Bigram"
+    },
+    "w2v_lemmatized_1": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "CBOW",
+      "vector_size": 100,
+      "window": 5
+    },
+    "w2v_stemmed_1": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "CBOW",
+      "vector_size": 100,
+      "window": 5
+    },
+    "w2v_lemmatized_2": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "CBOW",
+      "vector_size": 100,
+      "window": 10
+    },
+    "w2v_stemmed_2": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "CBOW",
+      "vector_size": 100,
+      "window": 10
+    },
+    "w2v_lemmatized_3": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "CBOW",
+      "vector_size": 200,
+      "window": 5
+    },
+    "w2v_stemmed_3": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "CBOW",
+      "vector_size": 200,
+      "window": 5
+    },
+    "w2v_lemmatized_4": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "CBOW",
+      "vector_size": 200,
+      "window": 10
+    },
+    "w2v_stemmed_4": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "CBOW",
+      "vector_size": 200,
+      "window": 10
+    },
+    "w2v_lemmatized_5": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "Skip-gram",
+      "vector_size": 100,
+      "window": 5
+    },
+    "w2v_stemmed_5": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "Skip-gram",
+      "vector_size": 100,
+      "window": 5
+    },
+    "w2v_lemmatized_6": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "Skip-gram",
+      "vector_size": 100,
+      "window": 10
+    },
+    "w2v_stemmed_6": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "Skip-gram",
+      "vector_size": 100,
+      "window": 10
+    },
+    "w2v_lemmatized_7": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "Skip-gram",
+      "vector_size": 200,
+      "window": 5
+    },
+    "w2v_stemmed_7": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "Skip-gram",
+      "vector_size": 200,
+      "window": 5
+    },
+    "w2v_lemmatized_8": {
+      "type": "Word2Vec",
+      "preprocessing": "Lemmatized",
+      "algorithm": "Skip-gram",
+      "vector_size": 200,
+      "window": 10
+    },
+    "w2v_stemmed_8": {
+      "type": "Word2Vec",
+      "preprocessing": "Stemmed",
+      "algorithm": "Skip-gram",
+      "vector_size": 200,
+      "window": 10
+    }
+  }
+}
