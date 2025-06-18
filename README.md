@@ -22,3 +22,7 @@ Bu projede farklı haber kaynaklarında aynı içeriğin farklı başlıklarla y
 - `project_website` – Dosyayı açın.
 - `start.bat` – Uzantısını çalıştırdığınızda site aktif olacaktır.
 - `readme.txt` – Bu txt dosyasında detaylar yazıyor.
+
+## Dipnot:
+- `Jupyter Notebook` haber verilerini NEWS API üzerinden çekmektedir.
+- - `project_website` – İse haberleri türk haber sitelerinin RSS verilerini kullanarak anlık olarak yayınlanan haberleri çekmektedir.
